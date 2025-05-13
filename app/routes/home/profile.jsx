@@ -21,7 +21,7 @@ const ProfileText = ({ visible, titleId }) => (
       <DecoderText text="Hi there" start={visible} delay={500} />
     </Heading>
     <Text className={styles.description} data-visible={visible} size="l" as="p">
-      I’m Hussen, a senior front-end developer based in Ethiopia, currently crafting
+      I’m Hussen, a mid-senior front-end developer based in Ethiopia, currently crafting
       high-quality web experiences at <Link href="https://ibex.et/">Ibex</Link>. I
       specialize in building scalable interfaces using React, TypeScript, and Tailwind
       CSS. My work focuses on performance, accessibility, and seamless user interaction.
